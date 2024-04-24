@@ -1,0 +1,16 @@
+To Run lab_07.cpp here are the instructions to set up and run it.
+
+Vincents-MacBook-Pro:Lab 7 vincentfealy$ g++ -c lab_07.cpp
+Vincents-MacBook-Pro:Lab 7 vincentfealy$ g++ -o lab_07 lab_07.o
+Vincents-MacBook-Pro:Lab 7 vincentfealy$ ./lab_07
+ 
+Enter the document name: 
+spelltst.txt
+persn
+types
+documnt
+makes
+mistakes
+mispells
+teh
+sords

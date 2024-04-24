@@ -1,0 +1,20 @@
+To start this Lab 2 first:
+g++ -c lab02.cpp
+This will create the lab02.o file which is needed to run
+
+g++ -o lab02 lab02.o
+
+./lab02
+
+Vincents-MacBook-Pro:Lab 2 vincentfealy$ ./lab02
+Fail count: 183891
+Success count: 931
+Empirical result: 20
+Vincents-MacBook-Pro:Lab 2 vincentfealy$ ./lab02
+Fail count: 184150
+Success count: 909
+Empirical result: 20
+Vincents-MacBook-Pro:Lab 2 vincentfealy$ ./lab02
+Fail count: 182946
+Success count: 979
+Empirical result: 20

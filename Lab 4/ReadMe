@@ -1,0 +1,36 @@
+Vincents-MacBook-Pro:Lab 4 vincentfealy$ g++ -c lab_04.cpp
+Vincents-MacBook-Pro:Lab 4 vincentfealy$ g++ -o lab_04 lab_04.o
+Vincents-MacBook-Pro:Lab 4 vincentfealy$ ./lab_04
+Pre-Order
+* a b 
++ a b + c 
+- a b c * d / + e 
+Post-Order
+a b * 
+a b + c + 
+a b c * d / + e - 
+Enter the expression: a*b
+Prefix form: * a b 
+Postfix form: a b * 
+Expression tree: 
+            *
+     a            b
+
+Vincents-MacBook-Pro:Lab 4 vincentfealy$ ./lab_04
+Pre-Order
+* a b 
++ a b + c 
+- a b c * d / + e 
+Post-Order
+a b * 
+a b + c + 
+a b c * d / + e - 
+Enter the expression: a+b*c/d-e
+Prefix form: - + a / * b c d e 
+Postfix form: a b c * d / + e - 
+Expression tree: 
+                                                                                                                                                      -
+                                    +                                                                                                                                   e
+                 a                                                                                             /
+                                                                          *                                                       d
+                                                       b                                    c

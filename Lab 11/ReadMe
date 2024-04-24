@@ -1,0 +1,7 @@
+Vincents-MacBook-Pro:Lab 11 vincentfealy$ g++ -c lab_11.cpp
+Vincents-MacBook-Pro:Lab 11 vincentfealy$ g++ -o lab_11 lab_11.o
+Vincents-MacBook-Pro:Lab 11 vincentfealy$ ./lab_11
+Enter a vertex: E
+Vertex with largest minimum-path value = A
+Minimum-path value = 20
+Minimum-path = A B C D F E 

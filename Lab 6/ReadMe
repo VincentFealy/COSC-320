@@ -1,0 +1,5 @@
+Vincents-MacBook-Pro:Lab 6 vincentfealy$ g++ -c lab06_map.cpp
+Vincents-MacBook-Pro:Lab 6 vincentfealy$ g++ -o lab06_map lab06_map.o
+
+Vincents-MacBook-Pro:Lab 6 vincentfealy$ g++ -c lab06_set.cpp
+Vincents-MacBook-Pro:Lab 6 vincentfealy$ g++ -o lab06_set lab06_set.o

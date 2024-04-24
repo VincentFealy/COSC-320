@@ -1,0 +1,11 @@
+Vincent's readME
+
+Here is a full copy of the terminal inputs to create the file as well as the output.
+Vincents-MacBook-Pro:COSC320 vincentfealy$ ls
+Lab01.cpp       ReadME          deSelsort.h
+Vincents-MacBook-Pro:COSC320 vincentfealy$ g++ -c Lab01.cpp
+Vincents-MacBook-Pro:COSC320 vincentfealy$ g++ -o Lab01 Lab01.o
+Vincents-MacBook-Pro:COSC320 vincentfealy$ ./Lab01
+Here is the array after sort:
+2 5 8 13 17 21 25 47 
+Vincents-MacBook-Pro:COSC320 vincentfealy$ 

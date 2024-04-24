@@ -1,0 +1,14 @@
+Vincents-MacBook-Pro:Lab 8 vincentfealy$ g++ -c lab_08.cpp
+Vincents-MacBook-Pro:Lab 8 vincentfealy$ g++ -o lab_08 lab_08.o
+Vincents-MacBook-Pro:Lab 8 vincentfealy$ ./lab_08
+Process B 5
+Process I 6
+Process C 6
+Process F 12
+Process E 17
+Process J 23
+Process D 24
+Process H 30
+Process G 34
+Process A 38
+Vincents-MacBook-Pro:Lab 8 vincentfealy$ 
